@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Accessibility Workshop</string>
+    <string name="choose_music_title">Escolha sua música preferida para comprar</string>
+    <string name="artist">Artist:</string>
+    <string name="album">Album:</string>
+    <string name="price">Price:</string>
+</resources>
